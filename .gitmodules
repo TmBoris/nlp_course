@@ -1,0 +1,3 @@
+[submodule "LLaMA"]
+	path = LLaMA
+	url = https://github.com/TmBoris/LLaMA.git
